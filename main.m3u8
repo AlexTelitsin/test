@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://www.pinclipart.com/picdir/middle/24-244712_cnn-logo-new-cnn-logo-png-clipart.png",CNN LIVE
+
+https://1861340594.rsc.cdn77.org/x6hjpgZfAGsj5x2ZvYWTyQ==,1563657532/ls-54548-1/index.m3u8
+
+#EXTINF:0,The Weather Channel
+
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+
