@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:0,CNN LIVE
+http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjQ5OjI1IFBNJmhhc2hfdmFsdWU9ZHgySFlBaWRLdzNHTnhZeXFFak5Rdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,THE WEATHER CHANNEL
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0,CBS
+http://peer2.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjQ5OjU4IFBNJmhhc2hfdmFsdWU9NTN1UndkNFJwTXJid0U5RDVMNlcxZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,ABC
+http://peer2.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUwOjEwIFBNJmhhc2hfdmFsdWU9bkpQbno2cmFjWDBtdkFzNHVpUjVIUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,NBC
+http://peer2.savitar.tv/NBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUwOjI0IFBNJmhhc2hfdmFsdWU9SE5zNkhXWTRJcXFvOGlrdUtoTGE4Zz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,HBO East
+http://peer2.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUwOjM2IFBNJmhhc2hfdmFsdWU9ZEJlNDFnRjV4NUtmOTNZRk0vUUJVQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,HGTV
+http://peer2.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUwOjQ5IFBNJmhhc2hfdmFsdWU9TlZia1B3bTNCT1BMWXJlbDZOSHZDdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,TLC
+http://live.savitar.tv/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUxOjAyIFBNJmhhc2hfdmFsdWU9cGo2NW9sYTMydW1za0hSdXVnMmY3UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,TNT
+http://peer2.savitar.tv/TNT/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUxOjE1IFBNJmhhc2hfdmFsdWU9Mld6VlJJV0VBU29oVSt5Z1d4SXI0Zz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Syfy
+http://live.savitar.tv/SYFY/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUxOjI4IFBNJmhhc2hfdmFsdWU9ZlZKaDk0Z3pxN2hKNEJkd0pqYlA5QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Discovery Channel
+http://live.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUxOjQwIFBNJmhhc2hfdmFsdWU9OXU4NXN3dklQUUQ4TUV6NEdKQlVWQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,National Geographic
+http://live.savitar.tv/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUxOjUzIFBNJmhhc2hfdmFsdWU9N0FITmNrSHZFYU03RmlZeERJYTJlQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,NAT GEO WILD
+http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUyOjA1IFBNJmhhc2hfdmFsdWU9c00ySFcvNDl5TkNnR2paQi9qQXBlUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Animal Planet
+http://live.savitar.tv/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUyOjE3IFBNJmhhc2hfdmFsdWU9YkkwMmpwWGN3ckVJRzdlRHBjWnhBUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Travel
+http://live.savitar.tv/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUyOjMwIFBNJmhhc2hfdmFsdWU9VC80M0FEbWg3eVpnUnJ6K1k2OXBsZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,PBS
+http://live.savitar.tv/PBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUyOjQzIFBNJmhhc2hfdmFsdWU9WjNmSWZSbzh1eWdVTWwzOWtsbzlldz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Showtime
+http://peer2.savitar.tv/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUyOjU1IFBNJmhhc2hfdmFsdWU9dWgrWHhLa2QvY090d2d5VWNNenNUUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Investigation Discovery
+http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUzOjA4IFBNJmhhc2hfdmFsdWU9ZGp2RzdJUUVrRmhMa3hVTTZVWTFYUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,HLN
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-7/index.m3u8
+#EXTINF:0,The CW
+http://live.savitar.tv/CW/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUzOjM5IFBNJmhhc2hfdmFsdWU9LzZCRDdUUkF6SlE2TFpPVnZiaTAvZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,History Channel
+http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjUzOjUyIFBNJmhhc2hfdmFsdWU9NVJjRSs4VVJ3OUVBNEZXVytJRTlhZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,TCM
+http://live.savitar.tv/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU0OjA0IFBNJmhhc2hfdmFsdWU9NXBZZEFPcHZnL3dqUmU4cm1kY3k4UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Starz
+http://live.savitar.tv/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU0OjE3IFBNJmhhc2hfdmFsdWU9eUsyWTJ2ZFdXYUY0djJqYTBBMHBqQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,FX
+http://live.savitar.tv/FX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU0OjMzIFBNJmhhc2hfdmFsdWU9WU40NWo5ZkNTeTRmT1BwYkxSaDZ5UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,USA Network
+http://peer2.savitar.tv/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU0OjQ1IFBNJmhhc2hfdmFsdWU9b1p3dWJ5RGFvUUZ4MXZaaTY0T0ZBdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,AMC
+http://live.savitar.tv/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU0OjU4IFBNJmhhc2hfdmFsdWU9aXhpM1RDa1lBaWpyWEFzcGN6KzhMUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Hallmark Movies & Mysteries
+http://live.savitar.tv/HMM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU1OjE5IFBNJmhhc2hfdmFsdWU9SEwybE4xZjJraGx3UUlLNlFKditvQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Hallmark Channel
+http://live.savitar.tv/Hallmark/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU1OjMyIFBNJmhhc2hfdmFsdWU9dVpDc3dRTVNvTDI0dUN5S0ZvZlJ4QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Comedy Central
+http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU1OjQ1IFBNJmhhc2hfdmFsdWU9V1FtN1c2Vm9URUZEejU0U25pRzZQQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Freeform
+http://live.savitar.tv/Freeform/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU1OjU4IFBNJmhhc2hfdmFsdWU9RjJ4R3h6NUV4V0o3WndtVVBUcUV1QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Lifetime
+http://live.savitar.tv/Lifetime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU2OjEzIFBNJmhhc2hfdmFsdWU9eVNybnh1QlF3L1NCTEJPKy9IMXdSZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Food Network
+http://live.savitar.tv/FoodNetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU2OjI2IFBNJmhhc2hfdmFsdWU9em05WGpVZW14UWdqMU0yOXUxUzNNdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Bravo
+http://live.savitar.tv/Bravo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU2OjM4IFBNJmhhc2hfdmFsdWU9TkF2SThqb3JxWE9zN05QOG90OTlVQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,TV Land
+http://live.savitar.tv/TVLand/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU2OjUxIFBNJmhhc2hfdmFsdWU9Zm8yeTdBN0tCVG9VdDd6cllXM3BNdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,A&E
+http://live.savitar.tv/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjAzIFBNJmhhc2hfdmFsdWU9SWhwUWhQcWtkR1Zybll2NVJLQm8rUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,TBS
+http://live.savitar.tv/TBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjE2IFBNJmhhc2hfdmFsdWU9SzVXWmpnNGRsN01BR3J2SXNSb0podz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,ESPN
+http://peer2.savitar.tv/ESPN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjI4IFBNJmhhc2hfdmFsdWU9NFRNOUMvUS9BSng0cGNhdUxMbDgyUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,MLB Network
+http://peer2.savitar.tv/MLB/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjQxIFBNJmhhc2hfdmFsdWU9c3Nlc0hEYkJXSmJDQ3NGMWhKT0I1UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Tennis Channel
+http://live.savitar.tv/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU3OjUzIFBNJmhhc2hfdmFsdWU9bnY3Y3pNQjc4RmhVRDRNRE5WaldDQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Golf Channel
+http://live.savitar.tv/GOLF/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU4OjA2IFBNJmhhc2hfdmFsdWU9NXBHOHVwR0lNaGlmWURVc1FWZU9DUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,NFL Network
+http://peer2.savitar.tv/NFL/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU4OjE4IFBNJmhhc2hfdmFsdWU9ODhXNTBWOEhzMTZOenhKRjlLRURkZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Disney Channel
+http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU4OjMwIFBNJmhhc2hfdmFsdWU9MnIrU2ZKaGZzbUVhakpLZVdHU1N0Zz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Nickelodeon
+http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU4OjQyIFBNJmhhc2hfdmFsdWU9cjZhY082VEN3UTFMQ1RGNExMSXJWQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Cartoon Network
+http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU4OjU1IFBNJmhhc2hfdmFsdWU9WG1IUUR5aE0xbGU3dEpkQ0RqclowZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,MSNBC Live
+http://peer2.savitar.tv/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU5OjA4IFBNJmhhc2hfdmFsdWU9bUd4QWRTRW5rN2pzRC9lVHNMYlNNZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,FOX
+http://peer2.savitar.tv/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU5OjIwIFBNJmhhc2hfdmFsdWU9ZnV0eVRZZG9WZkN4eGdRZUV1Nmkydz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Fox Business
+http://live.savitar.tv/FoxBusiness/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDEwOjU5OjMyIFBNJmhhc2hfdmFsdWU9RGxrN2ZBWmpiZFB5NU12NWIydFJDZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+#EXTINF:0,Bloomberg
+https://d1g4mbj10o50ni.cloudfront.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:0,CNBC
+http://live.savitar.tv/CNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDExOjAwOjI1IFBNJmhhc2hfdmFsdWU9WlRDSjlFQnI4VGd5Q0V0dHNCalBZZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Fox News
+http://peer2.savitar.tv/FoxNews/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDExOjAwOjM3IFBNJmhhc2hfdmFsdWU9NVNQaWRDcjQzUmJ6aG9OSFhjZ0c2dz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:0,Al Jazeera America
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+#EXTINF:0,BBC America
+http://live.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE5IDExOjAxOjA5IFBNJmhhc2hfdmFsdWU9T3JSTzZnM2QzVWprQW1HQkN4Y3dFQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
