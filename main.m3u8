@@ -8,7 +8,7 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:0 tvg-name="https://www.licensingexpo.com/sites/default/files/Logo-CBS.png",CBS
 http://peer2.savitar.tv/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjUyOjAyIFBNJmhhc2hfdmFsdWU9cURkbzlaanRtbmpsMUgxKzRpbENEZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
-#EXTINF:0 tvg-name="http://pluspng.com/img-png/abc-logo-png-open-2000.png",ABC
+#EXTINF:0 tvg-name="https://raw.githubusercontent.com/AlexTelitsin/test/master/abc-logo.png",ABC
 http://peer2.savitar.tv/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE5IDEwOjUyOjA0IFBNJmhhc2hfdmFsdWU9Z1h3OWZhRGNOUzhkQ3V1MC9pN1BXUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 
 #EXTINF:0 tvg-name="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1059px-NBC_logo.svg.png",NBC
